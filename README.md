@@ -20,14 +20,6 @@ Automatically sends a **LINE message** after each successful feeding operation.
 - No food level detection
 - No feeding history logging
 
-## Future Improvements
-
-- Add RTC for time-of-day scheduling
-- Add food level sensor
-- Add feeding log to cloud
-- Add configurable LINE message templates
-- Add OTA update capability
-
 ## Author
 
 Pakorn Yaothong  
